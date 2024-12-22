@@ -206,12 +206,5 @@ public class KechengfenleiController {
 		int count = kechengfenleiService.selectCount(wrapper);
 		return R.ok().put("count", count);
 	}
-	
-
-
-
-
-
-
 
 }

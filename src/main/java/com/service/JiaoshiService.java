@@ -16,7 +16,7 @@ import com.entity.view.JiaoshiView;
  *
  * @author 
  * @email 
- * @date 2022-04-30 14:26:20
+ * @date
  */
 public interface JiaoshiService extends IService<JiaoshiEntity> {
 

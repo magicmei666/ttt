@@ -285,12 +285,5 @@ public class XueshengController {
 		int count = xueshengService.selectCount(wrapper);
 		return R.ok().put("count", count);
 	}
-	
-
-
-
-
-
-
 
 }

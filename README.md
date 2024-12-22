@@ -16,12 +16,4 @@
 ## 项目介绍
 基于springboot的学生选课管理系统：前端 vue2、elementui，后端 maven、springmvc、spring、mybatis；角色分为管理员、学生、老师；集成课程信息、校园论坛、校园公告、选课等功能于一体的系统。
 
-## 环境
 
-- <b>IntelliJ IDEA 2021.3</b>
-
-- <b>Mysql 5.7.26</b>
-
-- <b>Node 14.14.0</b>
-
-- <b>JDK 1.8</b>

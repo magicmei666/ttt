@@ -206,12 +206,5 @@ public class DiscusskechengxinxiController {
 		int count = discusskechengxinxiService.selectCount(wrapper);
 		return R.ok().put("count", count);
 	}
-	
-
-
-
-
-
-
 
 }

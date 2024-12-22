@@ -218,12 +218,5 @@ public class KechengxinxiController {
 		int count = kechengxinxiService.selectCount(wrapper);
 		return R.ok().put("count", count);
 	}
-	
-
-
-
-
-
-
 
 }
